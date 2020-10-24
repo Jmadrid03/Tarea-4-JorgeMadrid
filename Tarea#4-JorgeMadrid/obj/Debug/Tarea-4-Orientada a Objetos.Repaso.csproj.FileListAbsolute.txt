@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Tarea-4-Orientada a Objetos.Repaso\bin\Debug\Tarea-4-Orientada a Objetos.Repaso.exe.config
+C:\Users\Usuario\source\repos\Tarea-4-Orientada a Objetos.Repaso\bin\Debug\Tarea-4-Orientada a Objetos.Repaso.exe
+C:\Users\Usuario\source\repos\Tarea-4-Orientada a Objetos.Repaso\bin\Debug\Tarea-4-Orientada a Objetos.Repaso.pdb
+C:\Users\Usuario\source\repos\Tarea-4-Orientada a Objetos.Repaso\obj\Debug\Tarea-4-Orientada a Objetos.Repaso.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Tarea-4-Orientada a Objetos.Repaso\obj\Debug\Tarea_4_Orientada_a_Objetos.Repaso.Formularios.FrmCalcular_Salario_Extra_y_Neto_de_un_Empleado.resources
+C:\Users\Usuario\source\repos\Tarea-4-Orientada a Objetos.Repaso\obj\Debug\Tarea_4_Orientada_a_Objetos.Repaso.Formularios.FrmMenú.resources
+C:\Users\Usuario\source\repos\Tarea-4-Orientada a Objetos.Repaso\obj\Debug\Tarea_4_Orientada_a_Objetos.Repaso.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Tarea-4-Orientada a Objetos.Repaso\obj\Debug\Tarea-4-Orientada a Objetos.Repaso.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Tarea-4-Orientada a Objetos.Repaso\obj\Debug\Tarea-4-Orientada a Objetos.Repaso.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Tarea-4-Orientada a Objetos.Repaso\obj\Debug\Tarea-4-Orientada a Objetos.Repaso.exe
+C:\Users\Usuario\source\repos\Tarea-4-Orientada a Objetos.Repaso\obj\Debug\Tarea-4-Orientada a Objetos.Repaso.pdb
+C:\Users\Usuario\source\repos\Tarea-4-Orientada a Objetos.Repaso\obj\Debug\Tarea_4_Orientada_a_Objetos.Repaso.Formularios.FrmCalcular_Cuota_Mensual_de_la_Venta_de_Computadora.resources
+C:\Users\Usuario\source\repos\Tarea-4-Orientada a Objetos.Repaso\obj\Debug\Tarea_4_Orientada_a_Objetos.Repaso.Formularios.FrmCalcular_el_Salario_de_un_Empleado_Tomando_en_Cuenta_un_Aumento.resources
+C:\Users\Usuario\source\repos\Tarea-4-Orientada a Objetos.Repaso\obj\Debug\Tarea_4_Orientada_a_Objetos.Repaso.Formularios.FrmCalcular_la_Cuota_Mensual_de_un_Prestamo.resources
